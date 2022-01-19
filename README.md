@@ -10,8 +10,8 @@
 # Что может?
  > цитаты
 
-
+![Иллюстрация к проекту](https://github.com/YakimaVisus/easy-bot-vk-group/blob/main/Opera%20Снимок_2022-01-19_175738_vk.com.png)
 
 > арты
 
-
+![Yakima Visus гей](https://github.com/YakimaVisus/easy-bot-vk-group/blob/main/Opera%20Снимок_2022-01-19_175713_vk.com.png)
