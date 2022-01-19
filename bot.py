@@ -5,7 +5,7 @@ import json
 import random
 from vk_api.bot_longpoll import VkBotLongPoll, VkBotEventType
 
-vk = vk_api.VkApi(token='51fc6637b336d4a092cd00766576dd1693ca31070874bcfe640643ed6fca3f1b89039c54dc7939ed603c1') #токен группы
+vk = vk_api.VkApi(token='токен') #токен группы
 vk._auth_token()
 vk.get_api()
 
